@@ -1,0 +1,44 @@
+.email-con {
+    padding: 4rem;
+}
+
+.sectionOne {
+    text-align: center;
+}
+
+.emailimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.emailimg {
+    width: 100%;
+    height: 250px;
+}
+
+.emailp1 {
+    font-size: 2rem;
+}
+
+.emailp2 {
+    font-size: 1.2rem;
+}
+
+
+.sectionTwo {
+    padding: 2rem 0;
+}
+
+.emailp3 {
+    font-size: 1.1rem;
+}
+
+.secondThree {
+    padding: 3rem 0;
+}
+
+.emailbox {
+    padding: 1rem 0;
+}
